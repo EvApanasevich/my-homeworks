@@ -1,0 +1,12 @@
+.default {
+    box-shadow: 0 0 5px rgba(0,179,94,0.25);
+    background-color: teal;
+    color: white;
+    /*border: 1.5px solid teal ;*/
+    border-radius: 5px;
+}
+
+.red {
+    background: #ff2f2f;
+    box-shadow: 0 0 5px rgba(255, 47, 47, 0.4);
+}

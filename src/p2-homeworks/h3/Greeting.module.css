@@ -1,0 +1,14 @@
+.butt {
+    background-color: lightskyblue;
+    margin-left: 20px;
+
+}
+
+.totUsers {
+    color: darkorange;
+    margin-left: 20px;
+}
+
+.err_text {
+    color: #d9030a;
+}

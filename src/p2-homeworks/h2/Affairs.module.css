@@ -1,0 +1,40 @@
+.item {
+    display: flex;
+    max-width: 300px;
+    justify-content: space-between;
+}
+
+.name {
+}
+
+.priority {
+    text-align: center;
+}
+
+.button {
+    color: crimson;
+    margin: 2px;
+    width: 50px;
+    height: 20px;
+    background-color: lightcoral;
+}
+
+.active_button {
+    background-color: white;
+    width: auto;
+    height: 25px;
+    color: teal;
+    border-radius: 5px;
+}
+
+.priority_green {
+    color: #03d918
+}
+
+.priority_red {
+    color: #d9030a
+}
+
+.priority_yellow {
+    color: #e5dc00
+}
